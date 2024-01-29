@@ -1,0 +1,2 @@
+The Collision game is a game in which you are the black box and you can use the up, down, left, and right buttons on your keyboard as well as the w,a,s, and d buttons to move the black box in that direction.
+This game was built using Python and Pygame as the library. You are to collect the green blocks and avoid the red blocks as to prevent loss in your health bar at the top right of your screen. To leave the game, click esc.
